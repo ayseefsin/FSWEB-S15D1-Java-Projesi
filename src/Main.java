@@ -7,7 +7,7 @@ public class Main {
         System.out.println("Hello world!");
 
         GroceryList aysinList= new GroceryList();
-
+        aysinList.addItems("cherry");
         aysinList.addItems("apple");
         aysinList.addItems("banana");
         aysinList.addItems("strawberry");
